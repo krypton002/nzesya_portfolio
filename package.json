@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/krypton002/nzesya-portfolio.git"
+    "url": "git+https://krypton002.github.io/nzesya-portfolio"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/krypton002/nzesya-portfolio/issues"
+    "url": "https://https://krypton002.github.io/nzesya-portfolio/issues"
   },
-  "homepage": "https://github.com/krypton002/nzesya-portfolio#readme",
+  "homepage": "https://krypton002.github.io/nzesya-portfolio#readme",
   "dependencies": {
     "gh-pages": "^3.1.0"
   }
